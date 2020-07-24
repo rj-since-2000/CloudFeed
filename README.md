@@ -1,6 +1,6 @@
 # CloudFeed
 
-A new Flutter project.
+A new messaging(texts and images) application with multiple contacts and groups using Flutter
 
 # SnapShots
 
