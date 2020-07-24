@@ -1,4 +1,4 @@
-# chatapp2
+# CloudFeed
 
 A new Flutter project.
 
