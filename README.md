@@ -1,6 +1,6 @@
 # CloudFeed
 
-A new messaging(texts and images) application with multiple contacts and groups using Flutter
+A realtime messaging(texts and images) application with multiple contacts and groups using Flutter
 
 # SnapShots
 
